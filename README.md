@@ -10,4 +10,4 @@
 
 ![lr2](https://github.com/aungkhantmyat/University-Leave-Request-System/assets/48421405/6dd861ad-4c7f-46b2-8778-da1ca5f10c50)
 ![lr1](https://github.com/aungkhantmyat/University-Leave-Request-System/assets/48421405/b2abfefd-df51-4105-abbd-a54272bf5379)
-
+_**Note:** You can read the project details [here](https://github.com/aungkhantmyat/University-Leave-Request-System/blob/main/University-Leave-Request-System%20Project.pdf)._
